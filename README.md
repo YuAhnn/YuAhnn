@@ -1,19 +1,17 @@
-# Hi I'm YuAhnn:
+# I_I 1
 
-😎 STUDENT 🔥
-
-# 📚 Expanding Horizons:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-
-# ⚛️ Atomic Wins:
-
-![](https://github-readme-stats.vercel.app/api?username=YuAhnn&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YuAhnn&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuAhnn&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+> **Student**
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=YuAhnn&icon=0&color=0)](https://visitcount.itsvg.in)
+##### EXPANDING HORIZONS
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img width="60%" src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,postgres,figma&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=YuAhnn&theme=dracula&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" />
+</p>
