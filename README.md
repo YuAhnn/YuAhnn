@@ -1,6 +1,6 @@
 # Hi I'm YuAhnn:
 
-😎 STUDENT ⌨️
+😎 STUDENT 🔥
 
 # 📚 Expanding Horizons:
 
