@@ -1,19 +1,16 @@
-# I_I 1
-
-> **STUDENT**
-
----
-
-##### EXPANDING HORIZONS
-
-<p align="center">
-  <img width="80%" src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,postgres,figma&theme=dark" />
+<p>
+  <kbd> |_| | </kbd>
 </p>
-
----
-
-<p align="center">
-  <img width="80%" src="https://nirzak-streak-stats.vercel.app/?user=YuAhnn&theme=dracula&hide_border=false"/>
+<p>
+  <kbd> EXPANDING HORIZONS </kbd>
 </p>
-
----
+<div align="center">
+  <img 
+  src="https://skillicons.dev/icons?i=js,react,tailwind,nextjs,supabase,nodejs,express&theme=dark" 
+/>
+<br><br/>
+<div align="center">
+    <img width="85%"
+     src="https://nirzak-streak-stats.vercel.app/?user=YuAhnn&theme=dracula&hide_border=true" 
+     style="border-radius: 20px; border: 1px solid #44475a;" 
+    />
