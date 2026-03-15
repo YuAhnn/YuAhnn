@@ -10,7 +10,7 @@
 />
 <br><br/>
 <div align="center">
-    <img width="85%"
+    <img width="70%"
      src="https://nirzak-streak-stats.vercel.app/?user=YuAhnn&theme=dracula&hide_border=true" 
      style="border-radius: 20px; border: 1px solid #44475a;" 
     />
