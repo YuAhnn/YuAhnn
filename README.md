@@ -1,7 +1,7 @@
 <p>
   <kbd> |_| | </kbd>
 </p>
-<p align="center">
+<p>
   <kbd> EXPANDING HORIZONS </kbd>
 </p>
 <div align="center">
