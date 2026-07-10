@@ -1,12 +1,10 @@
+<br/>
 <p>
   <kbd> |_| | </kbd>
 </p>
 <p>
   <kbd> EXPANDING HORIZONS </kbd>
 </p>
-<div align="center">
-  <img 
-  src="https://skillicons.dev/icons?i=js,react,tailwind,nextjs,supabase,nodejs,express&theme=dark" 
-/>
-<br><br/>
-<div>
+<p align="center">
+  <kbd>JavaScript</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>Supabase</kbd>
+</p>
