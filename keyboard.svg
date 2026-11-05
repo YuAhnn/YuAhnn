@@ -1,0 +1,299 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 370"
+     width="1200"
+     height="370">
+
+  <defs>
+    <style>
+      .key {
+        fill: #171d24;
+        stroke: #343d47;
+        stroke-width: 2;
+      }
+      .letter {
+        fill: #ffffff;
+        font: 16px monospace;
+        text-anchor: middle;
+      }
+      .label {
+        fill: #d5d9dc;
+        font: 10px sans-serif;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+
+  <!-- Keyboard layout -->
+  <g transform="translate(10 10)">
+
+    <!-- Number row -->
+    <g>
+      <rect class="key" x="0" y="0" width="70" height="48" rx="5"/>
+      <text class="letter" x="35" y="20">`</text>
+
+      <g transform="translate(76)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">1</text>
+      </g>
+      <g transform="translate(152)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">2</text>
+      </g>
+      <g transform="translate(228)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">3</text>
+      </g>
+      <g transform="translate(304)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">4</text>
+      </g>
+      <g transform="translate(380)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">5</text>
+      </g>
+      <g transform="translate(456)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">6</text>
+      </g>
+      <g transform="translate(532)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">7</text>
+      </g>
+      <g transform="translate(608)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">8</text>
+      </g>
+      <g transform="translate(684)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">9</text>
+      </g>
+      <g transform="translate(760)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">0</text>
+      </g>
+      <g transform="translate(836)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">-</text>
+      </g>
+      <g transform="translate(912)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="20">=</text>
+      </g>
+      <g transform="translate(988)">
+        <rect class="key" width="192" height="48" rx="5"/>
+        <text class="letter" x="96" y="20">Backspace</text>
+      </g>
+    </g>
+
+    <!-- QWERTY row -->
+    <g transform="translate(0 56)">
+      <rect class="key" width="100" height="48" rx="5"/>
+      <text class="letter" x="50" y="19">Tab</text>
+
+      <g transform="translate(106)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">Q</text>
+      </g>
+      <g transform="translate(182)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">W</text>
+        <text class="label" x="35" y="37">Tailwind</text>
+      </g>
+      <g transform="translate(258)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">E</text>
+        <text class="label" x="35" y="37">Express</text>
+      </g>
+      <g transform="translate(334)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">R</text>
+        <text class="label" x="35" y="37">React</text>
+      </g>
+      <g transform="translate(410)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">T</text>
+        <text class="label" x="35" y="37">TypeScript</text>
+      </g>
+      <g transform="translate(486)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">Y</text>
+      </g>
+      <g transform="translate(562)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">U</text>
+        <text class="label" x="35" y="37">Luau</text>
+      </g>
+      <g transform="translate(638)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">I</text>
+        <text class="label" x="35" y="37">Vite</text>
+      </g>
+      <g transform="translate(714)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">O</text>
+      </g>
+      <g transform="translate(790)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">P</text>
+        <text class="label" x="35" y="37">Postgres</text>
+      </g>
+      <g transform="translate(866)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">[</text>
+      </g>
+      <g transform="translate(942)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">]</text>
+      </g>
+      <g transform="translate(1018)">
+        <rect class="key" width="162" height="48" rx="5"/>
+        <text class="letter" x="81" y="19">\</text>
+      </g>
+    </g>
+
+    <!-- Home row -->
+    <g transform="translate(0 112)">
+      <rect class="key" width="120" height="48" rx="5"/>
+      <text class="letter" x="60" y="19">Caps Lock</text>
+
+      <g transform="translate(126)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">A</text>
+        <text class="label" x="35" y="37">Java</text>
+      </g>
+      <g transform="translate(202)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">S</text>
+      </g>
+      <g transform="translate(278)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">D</text>
+        <text class="label" x="35" y="37">Docker</text>
+      </g>
+      <g transform="translate(354)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">F</text>
+      </g>
+      <g transform="translate(430)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">G</text>
+      </g>
+      <g transform="translate(506)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">H</text>
+      </g>
+      <g transform="translate(582)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">J</text>
+        <text class="label" x="35" y="37">JavaScript</text>
+      </g>
+      <g transform="translate(658)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">K</text>
+      </g>
+      <g transform="translate(734)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">L</text>
+      </g>
+      <g transform="translate(810)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">;</text>
+      </g>
+      <g transform="translate(886)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">'</text>
+      </g>
+      <g transform="translate(962)">
+        <rect class="key" width="218" height="48" rx="5"/>
+        <text class="letter" x="109" y="19">Enter</text>
+      </g>
+    </g>
+
+    <!-- Shift row -->
+    <g transform="translate(0 168)">
+      <rect class="key" width="150" height="48" rx="5"/>
+      <text class="letter" x="75" y="19">Shift</text>
+
+      <g transform="translate(156)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">Z</text>
+      </g>
+      <g transform="translate(232)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">X</text>
+        <text class="label" x="35" y="37">Next.js</text>
+      </g>
+      <g transform="translate(308)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">C</text>
+      </g>
+      <g transform="translate(384)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">V</text>
+      </g>
+      <g transform="translate(460)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">B</text>
+      </g>
+      <g transform="translate(536)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">N</text>
+      </g>
+      <g transform="translate(612)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">M</text>
+      </g>
+      <g transform="translate(688)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">,</text>
+      </g>
+      <g transform="translate(764)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">.</text>
+      </g>
+      <g transform="translate(840)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">/</text>
+      </g>
+      <g transform="translate(916)">
+        <rect class="key" width="264" height="48" rx="5"/>
+        <text class="letter" x="132" y="19">Shift</text>
+      </g>
+    </g>
+
+    <!-- Bottom row -->
+    <g transform="translate(0 224)">
+      <rect class="key" width="110" height="48" rx="5"/>
+      <text class="letter" x="55" y="19">Ctrl</text>
+
+      <g transform="translate(116)">
+        <rect class="key" width="90" height="48" rx="5"/>
+        <text class="letter" x="45" y="19">Win</text>
+      </g>
+      <g transform="translate(212)">
+        <rect class="key" width="90" height="48" rx="5"/>
+        <text class="letter" x="45" y="19">Alt</text>
+      </g>
+      <g transform="translate(308)">
+        <rect class="key" width="560" height="48" rx="5"/>
+      </g>
+      <g transform="translate(874)">
+        <rect class="key" width="90" height="48" rx="5"/>
+        <text class="letter" x="45" y="19">Alt</text>
+      </g>
+      <g transform="translate(970)">
+        <rect class="key" width="90" height="48" rx="5"/>
+        <text class="letter" x="45" y="19">Win</text>
+      </g>
+      <g transform="translate(1066)">
+        <rect class="key" width="70" height="48" rx="5"/>
+        <text class="letter" x="35" y="19">Menu</text>
+      </g>
+      <g transform="translate(1142)">
+        <rect class="key" width="38" height="48" rx="5"/>
+        <text class="letter" x="19" y="19">Ctrl</text>
+      </g>
+    </g>
+
+  </g>
+</svg>

@@ -5,6 +5,12 @@
 <p>
   <kbd> EXPANDING HORIZONS </kbd>
 </p>
+
 <p align="center">
-  <kbd>JavaScript</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>Supabase</kbd>
+  <a href="https://github.com/YuAhnn?tab=repositories">
+    <img
+      src="./keyboard.svg"
+      width="100%"
+    />
+  </a>
 </p>
